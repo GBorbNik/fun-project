@@ -161,7 +161,7 @@ p {
   
   #title .container-fluid {
   text-align: center;
-
+  }
   .title-img {
     position: static;
     transform: rotate(0deg);
