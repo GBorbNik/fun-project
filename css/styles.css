@@ -158,6 +158,9 @@ p {
   #title {
     text-align: center;
   }
+  
+  #title .container-fluid {
+  text-align: center;
 
   .title-img {
     position: static;
