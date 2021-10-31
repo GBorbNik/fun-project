@@ -155,10 +155,7 @@ p {
 }
 
 @media (max-width: 1024px) {
-  #title {
-    text-align: center;
-  }
-  
+
   #title .container-fluid {
   text-align: center;
   }
